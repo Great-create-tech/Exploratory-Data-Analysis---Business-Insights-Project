@@ -1,6 +1,6 @@
-# SQL Data Analytics Project
+# Exploratory Data Analysis & Business Insights Project
 
-This repository demonstrates advanced SQL techniques for analyzing business data and generating actionable insights. Building on data warehousing and exploratory data analysis (EDA), the project focuses on solving real-world business problems through complex SQL queries and analytical reporting.This project highlights practical SQL skills commonly used by data analysts and business intelligence professionals to transform structured data into valuable business insights.
+This repository demonstrates advanced SQL techniques for analyzing business data and generating actionable insights. Building on data warehousing and exploratory data analysis (EDA), the project focuses on solving real-world business problems through complex SQL queries and analytical reporting. This project highlights practical SQL skills commonly used by data analysts and business intelligence professionals to transform structured data into valuable business insights.
 
 # 🚀 Project Objectives
 
